@@ -1,32 +1,25 @@
-# TODO LIST
+# PROJECT NAME
 
-![GitHub repo size](https://img.shields.io/github/repo-size/devggui/--REPOSITORY-NAME)
-![GitHub language count](https://img.shields.io/github/languages/count/devggui/--REPOSITORY-NAME)
-![GitHub forks](https://img.shields.io/github/forks/devggui/--REPOSITORY-NAME)
-
-
-> Este é um aplicativo simples de TODO List proposto no desafio 01 do curso de React Native [Rocketseat](http://app.ropcketseat.com.br)
-
-<div
-  style="width:100%; display:flex; align-items:center; gap:16px" 
->
-<img src="./--IMAGE-URL" width="30%">
-<img src="./--IMAGE-URL"  width="30%">
-<img src="./--IMAGE-URL" width="30%">
+![GitHub repo size](https://img.shields.io/github/repo-size/devggui/REPOSITORYNAME)
+![GitHub language count](https://img.shields.io/github/languages/count/devggui/REPOSITORYNAME)
+![GitHub forks](https://img.shields.io/github/forks/devggui/REPOSITORYNAME)
 
 
+> Soon description of the project
+
+<div style="width:100%; display:flex; align-items:center; gap:16px">
+<img src="./public/preview/desktop-preview.png" width="100%">
+<img src="./public/preview/mobile-preview.png" width="30%">
 </div>
 
 ## Detalhes do aplicativo
 
-- A ideia do desafio foi a construição de um aplicativo mobile multiplataforma capaz de gerenciar tarefas a executar.  
-Com isso pude fixar alguns conceito de componentização e gerenciamento de estado, renderização condicional e hooks.
+- Descrição e detalhamento do projeto...
+
 
 ## 🚀 Melhorias implementadas
-- [x] - Dados salvos no Storage do dispositivo
-- [x] - Estilização com styled components
-- [x] - Biblioteca de icones phosphor icons
-- [x] - Alertas a cada interação
+- [x] - Estilização com Tailwind CSS
+- [x] - Biblioteca de icones Feather Icons
 
 
 ## 💻 Como usar o projeto
@@ -34,28 +27,28 @@ Para gerar uma cópia do projeto e implementar as suas melhorias, esteja em um c
 
 1  clone o projeto com o comando 
 ```
-git clone https://github.com/devggui/--REPOSITORY-NAME
+git clone https://github.com/devggui/REPOSITORYNAME
 ``` 
 2  Acesse o projeto pelo terminal com o comando 
 ```
-cd --REPOSITODY-NAME
+cd REPOSITORYNAME
 ```  
 3  Instale as dependências necessárias com o comando
 ```
 npm install
 ```
-
 4  Rode o projeto com o comando
 ```
-npm run android
+npm run dev
 ``` 
-5  Acesse o aplicativo em seu dispositívo físico com o app Expo Go ou pelo Android Studio 
+5  Ou acesse o aplicativo através do website []() 
+
 
 ## 🌐 Links úteis
 [NodeJS](https://nodejs.org/en/download)  
-[Expo](https://expo.dev/)  
-[Android Studio](https://developer.android.com/studio/install?hl=pt-br)  
-[Figma do projeto](https://www.figma.com/file/9oFvFCof9KMaxDsH9IhPjg/ToDo-List-%E2%80%A2-Mobile)
+[NextJS](https://nextjs.org)  
+[Tailwind CSS](https://tailwindcss.com)  
+[Feather Icons](https://feathericons.com)
 
 
 ## 🧑‍💻 Guilherme Henrique
